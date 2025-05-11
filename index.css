@@ -1,0 +1,70 @@
+
+.model{
+    height:70px;
+    width:70px;
+}
+.banner-ground{
+    background-color: black;
+    height:100vh;
+    background-size:cover;
+
+}
+.heading{
+    color:antiquewhite;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300px;
+}
+.para{
+    color:antiquewhite;
+    font-size: 12px;
+    font-weight: 300px;
+}
+.resume{
+    height: 45px;
+    width:135px;
+    border-width:0px ;
+    border-radius: 8px;
+    background-color:#42f56c;
+    color:aliceblue;
+    font-family: "Roboto";
+    margin-right:10px;
+}
+.photo{
+    height:200px;
+    width:200px;
+    border-radius:80px;
+}
+.mar{
+    margin-left:120px;
+}
+.mar1{
+    margin-left:160px;
+}
+.edu{
+    background-color:#373640;
+    padding:20px;
+    border-radius: 20px;
+    width:70%;
+}
+.edu-c{
+    width:80px;
+}
+.mar2{
+    margin-left:450px;
+}
+.skil{
+    background-color:#373640;
+    padding:10px;
+    border-radius: 20px;
+}
+.photo1{
+    height:360px;
+    width:400px;
+    border-radius:5px;
+    margin-left: 100px;
+}
+.icon{
+    color:#a8323e;
+    font-size: 60px;
+}
