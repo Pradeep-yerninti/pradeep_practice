@@ -5,8 +5,9 @@
     border-radius: 50px;
 }
 .model:hover{
-    border: 2px solid;
+    border: 3px solid;
     border-color:#fca903;
+    box-shadow:2px 2px 5px #fca903;
 }
 
 .banner-ground{
@@ -54,8 +55,9 @@
     width:70%;
 }
 .edu:hover{
-     border: 2px solid;
+     border: 3px solid;
     border-color:white;
+    box-shadow:2px 2px 5px white;
 }
 .edu-c{
     width:80px;
@@ -69,8 +71,9 @@
     border-radius: 20px;
 }
 .skil:hover{
-    border: 2px solid;
+    border: 3px solid;
     border-color: white;
+    box-shadow:2px 2px 5px white;
 }
 .photo1{
     height:360px;
